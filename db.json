@@ -1,0 +1,373 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "username": "johndoe",
+      "password": "password123",
+      "email": "johndoe@example.com",
+      "city": "New York",
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "password": "password456",
+      "email": "janesmith@example.com",
+      "city": "Los Angeles",
+      "gender": "female"
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "password": "alicepass789",
+      "email": "alicej@example.com",
+      "city": "Chicago",
+      "gender": "female"
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "username": "bobb",
+      "password": "bobbrown456",
+      "email": "bobb@example.com",
+      "city": "Houston",
+      "gender": "male"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "username": "charlied",
+      "password": "charlie123",
+      "email": "charlied@example.com",
+      "city": "Phoenix",
+      "gender": "male"
+    },
+    {
+      "id": "6",
+      "name": "Diana Clark",
+      "username": "dianac",
+      "password": "diana456",
+      "email": "dianac@example.com",
+      "city": "Philadelphia",
+      "gender": "female"
+    },
+    {
+      "id": "7",
+      "name": "Eve Martin",
+      "username": "evem",
+      "password": "evepass789",
+      "email": "evem@example.com",
+      "city": "San Antonio",
+      "gender": "female"
+    },
+    {
+      "id": "8",
+      "name": "Frank Thompson",
+      "username": "frankt",
+      "password": "frank123",
+      "email": "frankt@example.com",
+      "city": "San Diego",
+      "gender": "male"
+    },
+    {
+      "id": "9",
+      "name": "Grace Lee",
+      "username": "gracel",
+      "password": "grace456",
+      "email": "gracel@example.com",
+      "city": "Dallas",
+      "gender": "female"
+    },
+    {
+      "id": "10",
+      "name": "Henry Walker",
+      "username": "henryw",
+      "password": "henry789",
+      "email": "henryw@example.com",
+      "city": "San Jose",
+      "gender": "male"
+    },
+    {
+      "id": "11",
+      "name": "Isabella White",
+      "username": "isabellaw",
+      "password": "isabella123",
+      "email": "isabellaw@example.com",
+      "city": "Austin",
+      "gender": "female"
+    },
+    {
+      "id": "12",
+      "name": "Jack Harris",
+      "username": "jackh",
+      "password": "jack456",
+      "email": "jackh@example.com",
+      "city": "Jacksonville",
+      "gender": "male"
+    },
+    {
+      "id": "13",
+      "name": "Karen Lewis",
+      "username": "karenl",
+      "password": "karen789",
+      "email": "karenl@example.com",
+      "city": "Fort Worth",
+      "gender": "female"
+    },
+    {
+      "id": "14",
+      "name": "Liam Young",
+      "username": "liamy",
+      "password": "liam123",
+      "email": "liamy@example.com",
+      "city": "Columbus",
+      "gender": "male"
+    },
+    {
+      "id": "15",
+      "name": "Mia King",
+      "username": "miak",
+      "password": "mia456",
+      "email": "miak@example.com",
+      "city": "Charlotte",
+      "gender": "female"
+    },
+    {
+      "id": "16",
+      "name": "Noah Wright",
+      "username": "noahw",
+      "password": "noah789",
+      "email": "noahw@example.com",
+      "city": "San Francisco",
+      "gender": "male"
+    },
+    {
+      "id": "17",
+      "name": "Olivia Green",
+      "username": "oliviag",
+      "password": "olivia123",
+      "email": "oliviag@example.com",
+      "city": "Indianapolis",
+      "gender": "female"
+    },
+    {
+      "id": "18",
+      "name": "Paul Adams",
+      "username": "paula",
+      "password": "paul456",
+      "email": "paula@example.com",
+      "city": "Seattle",
+      "gender": "male"
+    },
+    {
+      "id": "19",
+      "name": "Quinn Baker",
+      "username": "quinnb",
+      "password": "quinn789",
+      "email": "quinnb@example.com",
+      "city": "Denver",
+      "gender": "female"
+    },
+    {
+      "id": "20",
+      "name": "Ryan Gonzalez",
+      "username": "ryang",
+      "password": "ryan123",
+      "email": "ryang@example.com",
+      "city": "Washington",
+      "gender": "male"
+    },
+    {
+      "id": "21",
+      "name": "Sophia Nelson",
+      "username": "sophian",
+      "password": "sophia456",
+      "email": "sophian@example.com",
+      "city": "Boston",
+      "gender": "female"
+    },
+    {
+      "id": "22",
+      "name": "Thomas Carter",
+      "username": "thomasc",
+      "password": "thomas789",
+      "email": "thomasc@example.com",
+      "city": "El Paso",
+      "gender": "male"
+    },
+    {
+      "id": "23",
+      "name": "Uma Foster",
+      "username": "umaf",
+      "password": "uma123",
+      "email": "umaf@example.com",
+      "city": "Detroit",
+      "gender": "female"
+    },
+    {
+      "id": "24",
+      "name": "Victor Sanders",
+      "username": "victors",
+      "password": "victor456",
+      "email": "victors@example.com",
+      "city": "Nashville",
+      "gender": "male"
+    },
+    {
+      "id": "25",
+      "name": "Wendy Ross",
+      "username": "wendyr",
+      "password": "wendy789",
+      "email": "wendyr@example.com",
+      "city": "Portland",
+      "gender": "female"
+    },
+    {
+      "id": "26",
+      "name": "Xander Powell",
+      "username": "xanderp",
+      "password": "xander123",
+      "email": "xanderp@example.com",
+      "city": "Memphis",
+      "gender": "male"
+    },
+    {
+      "id": "27",
+      "name": "Yara Russell",
+      "username": "yarar",
+      "password": "yara456",
+      "email": "yarar@example.com",
+      "city": "Oklahoma City",
+      "gender": "female"
+    },
+    {
+      "id": "28",
+      "name": "Zachary Ward",
+      "username": "zacharyw",
+      "password": "zachary789",
+      "email": "zacharyw@example.com",
+      "city": "Las Vegas",
+      "gender": "male"
+    },
+    {
+      "id": "29",
+      "name": "Abigail Torres",
+      "username": "abigailt",
+      "password": "abigail123",
+      "email": "abigailt@example.com",
+      "city": "Louisville",
+      "gender": "female"
+    },
+    {
+      "id": "30",
+      "name": "Brandon Peterson",
+      "username": "brandonp",
+      "password": "brandon456",
+      "email": "brandonp@example.com",
+      "city": "Baltimore",
+      "gender": "male"
+    },
+    {
+      "id": "31",
+      "name": "Catherine Reed",
+      "username": "catheriner",
+      "password": "catherine789",
+      "email": "catheriner@example.com",
+      "city": "Milwaukee",
+      "gender": "female"
+    },
+    {
+      "id": "32",
+      "name": "David Stewart",
+      "username": "davids",
+      "password": "david123",
+      "email": "davids@example.com",
+      "city": "Albuquerque",
+      "gender": "male"
+    },
+    {
+      "id": "33",
+      "name": "Ella Rivera",
+      "username": "ellar",
+      "password": "ella456",
+      "email": "ellar@example.com",
+      "city": "Tucson",
+      "gender": "female"
+    },
+    {
+      "id": "34",
+      "name": "Frankie Morgan",
+      "username": "frankiem",
+      "password": "frankie789",
+      "email": "frankiem@example.com",
+      "city": "Fresno",
+      "gender": "male"
+    },
+    {
+      "id": "35",
+      "name": "Grace Cooper",
+      "username": "gracec",
+      "password": "grace123",
+      "email": "gracec@example.com",
+      "city": "Sacramento",
+      "gender": "female"
+    },
+    {
+      "id": "36",
+      "name": "Hank Barnes",
+      "username": "hankb",
+      "password": "hank456",
+      "email": "hankb@example.com",
+      "city": "Kansas City",
+      "gender": "male"
+    },
+    {
+      "id": "37",
+      "name": "Ivy Watson",
+      "username": "ivyw",
+      "password": "ivy789",
+      "email": "ivyw@example.com",
+      "city": "Mesa",
+      "gender": "female"
+    },
+    {
+      "id": "38",
+      "name": "Jake Brooks",
+      "username": "jakeb",
+      "password": "jake123",
+      "email": "jakeb@example.com",
+      "city": "Atlanta",
+      "gender": "male"
+    },
+    {
+      "id": "39",
+      "name": "Kara Rogers",
+      "username": "karar",
+      "password": "kara456",
+      "email": "karar@example.com",
+      "city": "Omaha",
+      "gender": "female"
+    },
+    {
+      "id": "40",
+      "name": "Leo Phillips",
+      "username": "leop",
+      "password": "leo789",
+      "email": "leop@example.com",
+      "city": "Colorado Springs",
+      "gender": "male"
+    },
+    {
+      "id": "41",
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "password": "password456",
+      "email": "janesmith@example.com",
+      "city": "Los Angeles",
+      "gender": "female"
+    }
+  ]
+}
